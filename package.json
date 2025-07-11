@@ -1,0 +1,8 @@
+{
+  "name": "aikre8tive-stargate",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "echo 'Handled by Vercel'"
+  }
+}
